@@ -1,0 +1,10 @@
+{
+  "name": "Vytorx Sensi Lab",
+  "short_name": "Vytorx Sensi",
+  "description": "Configurador de sensibilidade e treino para jogadores.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080611",
+  "theme_color": "#080611",
+  "orientation": "portrait"
+}
